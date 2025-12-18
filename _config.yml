@@ -23,10 +23,10 @@ repository               : "Theara-Seng/theara-seng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile2.jpg"
   name             : "Theara Seng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Electronics, IoT, Robotics"
   location         : "Phnom Penh, Cambodia"
   employer         : "American University of Phnom Penh"
   uri              : # URL
