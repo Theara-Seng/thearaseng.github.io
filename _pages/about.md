@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
 
 I am a robotics and technology educator with a strong passion for embedded systems, intelligent robots, and applied artificial intelligence. I currently teach and mentor university students in areas such as robotics, IoT, computer networks, and AI-driven perception systems, with a strong emphasis on hands-on learning and real-world implementation.
 
