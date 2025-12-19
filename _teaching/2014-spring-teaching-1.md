@@ -92,7 +92,7 @@ Students may use the following tools and platforms:
 
 | Topic | Lab | Solution | Remark |
 |------|-----|----------|--------|
-| [Introduction to Robotics](./robotics/Motor_Control/) | Lab 1 | Solution 1 | …Loading |
+| [Motor Control](/robotics/Motor_Control/) | Lab 1 | Solution 1 | …Loading |
 | [Sensors & Distance Measurement](./robotics/sensors-distance/) | Lab 2 | Solution 2 | …Loading |
 | [Motor Control & PWM](./robotics/motor-control-pwm/) | Lab 3 | Solution 3 | …Loading |
 | [Line Following Robot](./robotics/line-following/) | Lab 4 | Solution 4 | …Loading |
