@@ -38,7 +38,7 @@ By the end of this guide, you will be able to:
 ## 🖥️ Step 1: Install Arduino IDE
 
 1. Download Arduino IDE from:  
-   👉 https://www.arduino.cc/en/software
+   👉 [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 2. Install using default settings
 3. Launch Arduino IDE
 
@@ -97,6 +97,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 Copy and paste the code below into Arduino IDE:
 
 ```cpp
+
 void setup() {
   pinMode(2, OUTPUT);   // Built-in LED (may vary by board)
 }
@@ -107,6 +108,9 @@ void loop() {
   digitalWrite(2, LOW);
   delay(1000);
 }
+
+```
+
 ## 📤 Upload the Program
 
 1. Click **Upload**.
@@ -158,7 +162,7 @@ After successful setup, you can:
 ## 📚 References
 
 - **ESP32 Arduino Core:**  
-  https://github.com/espressif/arduino-esp32
+  [https://github.com/espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
 
 - **Arduino Documentation:**  
-  https://docs.arduino.cc/
+  [https://docs.arduino.cc/](https://docs.arduino.cc/)
