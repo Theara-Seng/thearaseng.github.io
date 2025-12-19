@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to IoT"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "American University of Phnom Penh"
+date: 01/01/2026
+location: "Phnom Penh, Cambodia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to IoT provides a practical foundation in building connected systems using embedded devices, sensors, and cloud platforms. Students learn how data is collected, transmitted, stored, and visualized in IoT applications.
 
 Heading 1
 ======
