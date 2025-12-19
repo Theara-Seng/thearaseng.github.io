@@ -92,14 +92,13 @@ Students may use the following tools and platforms:
 
 | Topic | Lab | Solution | Remark |
 |------|-----|----------|--------|
-| Introduction to Robotics | Lab 1 | Solution 1 | …Loading |
-| Sensors & Distance Measurement | Lab 2 | Solution 2 | …Loading |
-| Motor Control & PWM | Lab 3 | Solution 3 | …Loading |
-| Line Following Robot | Lab 4 | Solution 4 | …Loading |
-| Obstacle Avoidance | Lab 5 | Solution 5 | …Loading |
-| PID Control (Intro) | Lab 6 | Application | …Loading |
-| Autonomous Robot Project | Lab 7 | Final Demo | …Loading |
-
+| [Motor Control](./topics/Motor_Control/) | Lab 1 | Solution 1 | …Loading |
+| [Sensors & Distance Measurement](./topics/sensors-distance/) | Lab 2 | Solution 2 | …Loading |
+| [Motor Control & PWM](./topics/motor-control-pwm/) | Lab 3 | Solution 3 | …Loading |
+| [Line Following Robot](./topics/line-following/) | Lab 4 | Solution 4 | …Loading |
+| [Obstacle Avoidance](./topics/obstacle-avoidance/) | Lab 5 | Solution 5 | …Loading |
+| [PID Control (Intro)](./topics/pid-control/) | Lab 6 | Application | …Loading |
+| [Autonomous Robot Project](./topics/autonomous-project/) | Lab 7 | Final Demo | …Loading |
 ---
 
 ## 📄 Midterms, Exams and Projects
