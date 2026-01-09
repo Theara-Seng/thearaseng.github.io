@@ -76,10 +76,13 @@ By the end of this course, students will be able to design, implement, and deplo
 
 | Criteria | Percentage |
 |--------|------------|
-| Attendance | 10% |
-| Participation & Quizzes | 25% |
-| Midterm Exam | 25% |
-| Final Project & Practical Labs | 40% |
+| Lab | 30% |
+| Quizzes | 10% |
+| Assignment | 10% |
+| Midterm Exam | 15% |
+| Mini Project | 15% | 
+| Final Project & Presentation / Practical Labs | 20% |
+
 
 ---
 
