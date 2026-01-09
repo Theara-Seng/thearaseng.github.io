@@ -106,14 +106,14 @@ Students may use the following tools and platforms:
 
 | Topic | Lab | Solution | Remark |
 |------|-----|----------|--------|
-| [IoT Overview & ESP32 Setup]({{ site.baseurl }}/Slides/iot/esp32-setup/) | Lab 1 | – | …Loading |
-| [Sensor Reading & Data Acquisition](/iot/sensors/) | Lab 2 | – | …Loading |
-| [ESP32 Web Server](/iot/web-server/) | Lab 3 | – | …Loading |
-| [Telegram Bot Integration](/iot/telegram-bot/) | Lab 4 | – | …Loading |
-| [MQTT & Node-RED](/iot/mqtt-nodered/) | Lab 5 | – | …Loading |
-| [Grafana Dashboard](/iot/grafana/) | Lab 6 | – | …Loading |
-| [Blynk IoT Platform](/iot/blynk/) | Lab 7 | – | …Loading |
-| [MIT App Inventor IoT App](/iot/mit-app/) | Lab 8 | – | …Loading |
-| [Final IoT Project](/iot/final-project/) | Project | Demo | …Loading |
+| [IoT Overview & ESP32 Setup]({{ site.baseurl }}/Slides/iot/esp32-setup/) | | – | …Loading |
+| [Telegram Bot Integration]({{ site.baseurl }}/Slides//iot/telegram_control/) | Lab 1 | – | …Loading |
+| [ESP32 Web Server]({{ site.baseurl }}/Slides/iot/Webserver_control/) | Lab 2 | – | …Loading |
+| [Blynk IoT Platform]({{ site.baseurl }}/Slides/iot/esp32_setup/) | Lab 3 | – | …Loading |
+| [Mini Project]({{ site.baseurl }}/Slides//iot/mqtt-nodered/) |  | – | …Loading |
+| [Grafana Dashboard]({{ site.baseurl }}/Slides/iot/grafana/) | Lab 4 | – | …Loading |
+| [MIT App Inventor IoT App]({{ site.baseurl }}/Slides/iot/blynk/) | Lab 5 | – | …Loading |
+| [Firebase with esp32]({{ site.baseurl }}/Slides/iot/mit-app/) | Lab 6 | – | …Loading |
+| [Final IoT Project]({{ site.baseurl }}/Slides/iot/final-project/) | Project | Demo | …Loading |
 
 ---
